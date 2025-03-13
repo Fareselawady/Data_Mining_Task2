@@ -1,0 +1,11 @@
+   id    item  quantity  price  bought  forenoon  afternoon
+0   1    milk       2.0   67.0   672.0     456.0        NaN
+1   2   sugar       1.0    NaN   453.0     234.0        NaN
+2   3   chips       NaN   45.0   456.0     322.0        NaN
+3   4  coffee       2.0   45.0   672.0     564.0        NaN
+4   5    meat       4.0   56.0   786.0     221.0        NaN
+5   6  chocos       3.0    NaN   345.0       NaN      213.0
+6   7   juice       1.0   78.0   765.0       NaN      344.0
+7   8     jam       NaN   65.0   665.0       NaN      333.0
+8   9   bread       3.0    NaN     NaN       NaN      567.0
+9  10  butter       4.0    NaN     NaN       NaN      322.0
